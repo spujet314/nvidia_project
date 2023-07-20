@@ -15,4 +15,4 @@ This project utilizes a 5 layer Convolutional Neural Network (CNN) to recognize 
 5. The second to last cell will launch the GUI for the program.
 6. Do not run the last cell until you wish to terminate execution. It will deallocate the memory required for the camera and restart the kernel.
 
-[View a video explanation here](video link)
+Video explaining functionality: https://www.youtube.com/watch?v=4jEktt6P-AQ
